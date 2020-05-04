@@ -1,0 +1,46 @@
+<!DOCTYPE html >
+<!--
+File Name: template.html
+Date: 04/27/2020
+Programmer: Jamie Tomosunas
+-->
+
+<html lang="en">
+
+<head>
+    <title>Ace In the Hole Multisports Event</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="css/oldexample.css">
+</head>
+
+<body>
+    <div id="wrapper">
+        <header>
+            <h1>Ace In the Hole Multisports Event</h1>
+
+        </header>
+        <nav>
+            <a href="courses.html">Courses</a>
+            <a href="schedule.html">Schedule</a>
+            <a href="registration.html">Registration</a>
+            <a href="contact.html">Contact</a>
+            <a href="faq.html">FAQ</a>
+        </nav>
+        <div class="hero">
+            <p>hero image</p>
+        </div>
+    
+        <main>
+            <h2>h2 heading</h2>
+            <p>Lick face hiss at owner, pee a lot, and meow repeatedly scratch at fence purrrrrr eat muffins and poutine until owner comes back adventure always yet lick yarn hanging out of own butt i like to spend my days sleeping and eating fishes that my human fished for me we live on a luxurious yacht, sailing proudly under the sun, i like to walk on the deck, watching the horizon, dreaming of a good bowl of milk fight own tail and freak human out make funny noise mow mow mow mow mow mow success now attack human attack feet. Lies down . Favor packaging over toy chew on cable no, you can't close the door, i haven't decided whether or not i wanna go out stare at ceiling, and cuddle no cuddle cuddle love scratch scratch but groom forever, stretch tongue and leave it slightly out, blep. Lick left leg for ninety minutes, still dirty. Eat the rubberband don't nosh on the birds and nya nya nyan. Cereal boxes make for five star accommodation sniff catnip and act crazy. Stand in front of the computer screen. Cat dog hate mouse eat string barf pillow no baths hate everything cry louder at reflection yet sit in a box for hours. All of a sudden cat goes crazy meow loudly just to annoy owners and roll on the floor purring your whiskers off fooled again thinking the dog likes me so mrow. Chase ball of string bite the neighbor's bratty kid yet cough furball. Get scared by doggo also cucumerro . Hide when guests come over munch, munch, chomp, chomp but peer out window, chatter at birds, lure them to mouth demand to have some of whatever the human is cooking, then sniff the offering and walk away, yet tweeting a baseball and fooled again thinking the dog likes me. Catching very fast laser pointer. It's 3am, time to create some chaos cough hairball, eat toilet paper pet me pet me pet me pet me, bite, scratch, why are you petting me for mew groom yourself 4 hours - checked, have your beauty sleep 18 hours - checked, be fabulous for the rest of the day - checked so prance along on top of the garden fence, annoy the neighbor's dog and make it bark i am the best. Disappear for four days and return home with an expensive injury; bite the vet. Leave hair everywhere bathe private parts with tongue then lick owner's face ears back wide eyed stand in doorway, unwilling to chose whether to stay in or go out for when in doubt, wash. Gate keepers of hell run off table persian cat jump eat fish or is good you understand your place in my world. The dog smells bad tuxedo cats always looking dapper hell is other people purr when give birth so stare out the window. I love cats i am one wake up scratch humans leg for food then purr then i have a and relax. Chirp at birds tweeting a baseball eat too much then proceed to regurgitate all over living room carpet while humans eat dinner.
+            </p>
+     
+        </main>
+
+        <footer>Copyright &copy; 2020<br>
+            <a href="mailto:jamietomosunas@jamietomosunas.com">jamietomosunas@jamietomosunas.com</a></footer>
+
+    </div>
+</body>
+
+</html>
